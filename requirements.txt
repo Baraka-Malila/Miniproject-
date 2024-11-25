@@ -1,0 +1,14 @@
+#pandas
+#numpy
+#keras
+#tensorflow-cpu
+#scikit-learn
+#seaborn
+#matplotlib
+#plotly
+#scipy
+#flask
+#streamlit
+#requests
+#jupyterlab
+#statsmodels
