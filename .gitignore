@@ -1,0 +1,32 @@
+# OS-Specific  
+*~  
+*.swp  
+lost+found/  
+
+# Python and Conda  
+__pycache__/  
+*.py[cod]  
+.env/  
+env/  
+*.conda  
+
+# Jupyter  
+.ipynb_checkpoints/  
+.jupyter/  
+
+# Logs and Cache  
+*.log  
+*.out  
+*.err  
+.cache/  
+
+# Build Artifacts  
+build/  
+dist/  
+*.egg-info/  
+
+# Data Files  
+*.csv  
+*.db  
+*.sqlite  
+
