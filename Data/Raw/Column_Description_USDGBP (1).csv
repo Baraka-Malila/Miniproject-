@@ -1,0 +1,59 @@
+Column Name,Description
+date,Date (T)
+open,Day Open
+high,Day High
+low,Day Low
+close,Day Close
+open1,T-1 Open
+high1,T-1 High
+low1,T-1 Low
+close1,T-1 Close
+open2,T-2 Open
+high2,T-2 High
+low2,T-2 Low
+close2,T-2 Close
+macd0,MACD
+signal0,MACD Signal
+diff0,MACD Diff
+macd1,T-1 MACD
+signal1,T-1 MACD Signal
+diff1,T-1 MACD Diff
+macd2,T-2 MACD
+signal2,T-2 MACD Signal
+diff2,T-2 MACD Diff
+rsi0,RSI
+rsi1,T-1 RSI
+rsi2,T-2 RSI
+dn0,Lower Bollinger Band
+mavg0,Middle Moving Average
+up0,Upper Bollinger Band
+pctB0,Percentage B
+dn1,T-1 Lower Bollinger Band
+mavg1,T-1 Middle Moving Average
+up1,T-1 Upper Bollinger Band
+pctB1,T-1 Percentage B
+dn2,T-2 Lower Bollinger Band
+mavg2,T-2 Middle Moving Average
+up2,T-2 Upper Bollinger Band
+pctB2,T-2 Percentage B
+sma20.0,Simple Moving Average 20
+sma20.1,T-1 Simple Moving Average 20
+sma20.2,T-2 Simple Moving Average 20
+sma50.0,Simple Moving Average 50
+sma50.1,T-1 Simple Moving Average 50
+sma50.2,T-2 Simple Moving Average 50
+sma100.0,Simple Moving Average 100
+sma100.1,T-1 Simple Moving Average 100
+sma100.2,T-2 Simple Moving Average 100
+sar0,Parabolic SAR
+sar1,T-1 Parabolic SAR
+sar2,T-2 Parabolic SAR
+fastK0,Stochastic Oscillator K line
+fastD0,Stochastic Oscillator D line
+stoch0,Stochastic Oscillator
+fastK1,T-1 Stochastic Oscillator K line
+fastD1,T-1 Stochastic Oscillator D line
+stoch1,T-1 Stochastic Oscillator
+fastK2,T-2 Stochastic Oscillator K line
+fastD2,T-2 Stochastic Oscillator D line
+stoch2,T-2 Stochastic Oscillator
